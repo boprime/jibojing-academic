@@ -19,7 +19,7 @@ role: MD of Clinical medcine，Urology
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Medical College
-    url:https://www.pumc.edu.cn/
+    url https://www.pumc.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Urinary system tumors, urinary control and pelvic floor diseases.
