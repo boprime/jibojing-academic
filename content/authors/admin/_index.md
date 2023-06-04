@@ -22,7 +22,7 @@ organizations:
     url: https://www.pumc.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include.
 
 # Interests to show in About widget
 interests:
@@ -33,14 +33,14 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: B.A. in Clinical medicine
+      institution: Southeast University
+      year: 2019
+    - course: M.S. in Urology
+      institution: Southeast University
+      year: 2022
+    - course: MD in Urology
+      institution: Peking Union Medical Collegey
       year: 2008
 
 # Social/Academic Networking
