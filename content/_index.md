@@ -45,7 +45,7 @@ sections:
           company_logo: org-gc
           location: Nanjing
           date_start: '2014-08'
-          date_end: '2022-06'
+          date_end: ''
           description:study and research
         - title: Resident physician
           company: Zhongda Hospital
