@@ -1,9 +1,9 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Ongoing Project
+summary: A study on the correlation between volume standardized urination frequency and symptoms and bladder volume in patients with interstitial cystitis
 tags:
-  - Deep Learning
-date: '2016-04-27T00:00:00Z'
+  - Clinical Research
+date: '2023-06-05'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
