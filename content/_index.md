@@ -43,7 +43,7 @@ sections:
           company: Southeast University
           company_url: ''
           company_logo: org-gc
-          location: Nanjing
+          location:Nanjing
           date_start:'2014-08'
           date_end:''
           description:study and research
