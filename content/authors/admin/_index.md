@@ -14,11 +14,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: MD of Peking Union Medical Collegey
+role: MD
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: MD of Peking Union Medical Collegey
+  - name: Peking Union Medical Collegey
     url: https://www.pumc.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
@@ -26,9 +26,9 @@ bio: My research interests include.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Genitourinary Cancer
+  - Micturition control
+  - Pelvic floor disease
 
 # Education to show in About widget
 education:
@@ -41,7 +41,7 @@ education:
       year: 2022
     - course: MD in Urology
       institution: Peking Union Medical Collegey
-      year: 2008
+      year: till now
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -59,7 +59,7 @@ social:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=oCww7xAAAAAJ&hl
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
