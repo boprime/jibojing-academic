@@ -1,5 +1,6 @@
 ---
-##(title: Example Talk
+##(
+title: Example Talk
 
 event: Wowchemy Conference
 event_url: https://example.org
