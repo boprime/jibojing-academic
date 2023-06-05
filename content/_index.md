@@ -39,27 +39,22 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Student
+          company: Southeast University
           company_url: ''
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+          location: Nanjing
+          date_start: '2014-08'
+          date_end: '2022-06'
+          description:study and research
+        - title: Resident physician
+          company: Zhongda Hospital
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Nanjing
+          date_start: '2019-08'
+          date_end: '2022-04'
+          description: Standardized training as a resident physician in the surgical system
     design:
       columns: '2'
   - block: accomplishments
@@ -75,22 +70,19 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url:
           date_end: ''
-          date_start: '2021-01-25'
-          description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          date_start: '2020-10'
+          description: 'Medical Practitioner Qualification Certificate'
+          organization: The National Health Commission
+          title: Medical Practitioner Qualification Certificate
           url: ''
-        - certificate_url: https://www.edx.org
+        - certificate_url:
           date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+          date_start: '2022-08'
+          description:
+          title: Qualification Certificate for Standardized Training of Surgeons
+          url: 
         - certificate_url: https://www.datacamp.com
           date_end: '2020-12-21'
           date_start: '2020-07-01'
