@@ -93,33 +93,6 @@ sections:
           url: ''
     design:
       columns: '2'
-  #- block: collection
-    #id: posts
-    #content:
-      #title: Recent Posts
-      #subtitle: ''
-      #text: ''
-      # Choose how many pages you would like to display (0 = all pages)
-      #count: 5
-      # Filter on criteria
-      filters:
-        folders:
-          - post
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: compact
-      columns: '2'
   - block: portfolio
     id: projects
     content:
@@ -180,21 +153,7 @@ sections:
     design:
       columns: '2'
       view: citation
-#- block: collection
-    #id: talks
-    #content:
-     # title: Recent & Upcoming Talks
-      #filters:
-       # folders:
-         # - event
-    #design:
-     # columns: '2'
-    #  view: compact
-  #- block: tag_cloud
-   # content:
-     # title: Popular Topics
-    #design:
-     # columns: '2'
+
   - block: contact
     id: contact
     content:
@@ -212,18 +171,6 @@ sections:
         country: China
       directions: Enter Building D and take the stairs to Office of Urology on Floor 7
       contact_links:
-        #- icon: twitter
-        #  icon_pack: fab
-         # name: DM Me
-         # link: 'https://twitter.com/Twitter'
-        -# icon: skype
-         # icon_pack: fab
-         # name: Skype Me
-        #  link: 'skype:echo123?call'
-       # - icon: video
-        #  icon_pack: fas
-        #  name: Zoom Me
-         # link: 'https://zoom.com'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
