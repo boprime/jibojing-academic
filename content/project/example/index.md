@@ -1,6 +1,6 @@
 ---
 title:A study on the correlation between volume standardized urination frequency and symptoms and signs in patients with interstitial cystitis
-summary:A clinical study focus on the relationship between volume standardized urination frequency and symptoms and signs such as bladder volume and pain level in patients with interstitial cystitis .
+summary: A clinical study focus on the relationship between volume standardized urination frequency and symptoms and signs such as bladder volume and pain level in patients with interstitial cystitis
 tags:
   - Clinical research
 date: ''
